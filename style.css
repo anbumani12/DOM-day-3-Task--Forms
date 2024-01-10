@@ -6,9 +6,8 @@ body {
 h1 {
     color: #333;
     text-align: center;
-    border: 3px solid #333; /* Changed box-shadow to border for a simpler look */
     border-radius: 20px;
-    padding: 10px; /* Added padding for better spacing */
+    padding: 10px; 
 }
 
 #description {
@@ -44,7 +43,7 @@ select, input, textarea {
     margin-bottom: 10px;
     box-sizing: border-box;
     border-radius: 6px;
-    border: 1px solid #ccc; /* Added border for consistency */
+    border: 1px solid #ccc; 
 }
 
 select, input {
